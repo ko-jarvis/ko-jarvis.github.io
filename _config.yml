@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "H.R. Noh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Republic of Korea"
-  email            :
+  name             : "HyeongRae Noh"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "안녕하세요🙌 저는 DeepLearning 기반의 AI 음성 합성 및 변환 모델을 연구하고있습니다. 취미는 노래부르기, 영화보기, 여행, 맛집탐방 등등 다양한 취미를 가지고 있고 최근엔 자기계발에 꽂혀 이를 위한 다양한 시도를 하고있습니다."
+  location         : "Anyang-si, Gyeonggi-do, Republic of Korea"
+  email            : hrnoh24@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
